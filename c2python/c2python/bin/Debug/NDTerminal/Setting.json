@@ -1,0 +1,7 @@
+﻿{
+  "ServerIP": "192.168.50.180",
+  "TerminalCode": "NDFTMTZD",
+  "AdPath": "d:/ndx/data/ads",
+  "DisablePhotonServer": "1",
+  "ThirdPath": "d:/ndx/data/third"
+}

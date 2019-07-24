@@ -1,0 +1,49 @@
+c:\users\14923\documents\visual studio 2015\Projects\c2python\c2python\bin\Debug\c2python.exe.config
+c:\users\14923\documents\visual studio 2015\Projects\c2python\c2python\bin\Debug\c2python.exe
+c:\users\14923\documents\visual studio 2015\Projects\c2python\c2python\bin\Debug\c2python.pdb
+c:\users\14923\documents\visual studio 2015\Projects\c2python\c2python\bin\Debug\IronPython.dll
+c:\users\14923\documents\visual studio 2015\Projects\c2python\c2python\bin\Debug\IronPython.Modules.dll
+c:\users\14923\documents\visual studio 2015\Projects\c2python\c2python\bin\Debug\IronPython.SQLite.dll
+c:\users\14923\documents\visual studio 2015\Projects\c2python\c2python\bin\Debug\IronPython.Wpf.dll
+c:\users\14923\documents\visual studio 2015\Projects\c2python\c2python\bin\Debug\Microsoft.Dynamic.dll
+c:\users\14923\documents\visual studio 2015\Projects\c2python\c2python\bin\Debug\Microsoft.Scripting.dll
+c:\users\14923\documents\visual studio 2015\Projects\c2python\c2python\bin\Debug\IronPython.Modules.xml
+c:\users\14923\documents\visual studio 2015\Projects\c2python\c2python\bin\Debug\IronPython.SQLite.xml
+c:\users\14923\documents\visual studio 2015\Projects\c2python\c2python\bin\Debug\IronPython.Wpf.xml
+c:\users\14923\documents\visual studio 2015\Projects\c2python\c2python\obj\Debug\MainWindow.g.cs
+c:\users\14923\documents\visual studio 2015\Projects\c2python\c2python\obj\Debug\App.g.cs
+c:\users\14923\documents\visual studio 2015\Projects\c2python\c2python\obj\Debug\c2python_MarkupCompile.cache
+c:\users\14923\documents\visual studio 2015\Projects\c2python\c2python\obj\Debug\c2python_MarkupCompile.lref
+c:\users\14923\documents\visual studio 2015\Projects\c2python\c2python\obj\Debug\MainWindow.baml
+c:\users\14923\documents\visual studio 2015\Projects\c2python\c2python\obj\Debug\c2python.g.resources
+c:\users\14923\documents\visual studio 2015\Projects\c2python\c2python\obj\Debug\c2python.Properties.Resources.resources
+c:\users\14923\documents\visual studio 2015\Projects\c2python\c2python\obj\Debug\c2python.csproj.GenerateResource.Cache
+c:\users\14923\documents\visual studio 2015\Projects\c2python\c2python\obj\Debug\c2python.exe
+c:\users\14923\documents\visual studio 2015\Projects\c2python\c2python\obj\Debug\c2python.pdb
+C:\Users\14923\Documents\Visual Studio 2015\Projects\c2python\c2python\bin\Debug\IronPython.xml
+C:\Users\14923\Documents\Visual Studio 2015\Projects\c2python\c2python\obj\Debug\c2python_Content.g.cs
+C:\Users\14923\Desktop\无人机\c2python\c2python\bin\Debug\c2python.exe.config
+C:\Users\14923\Desktop\无人机\c2python\c2python\obj\Debug\c2python.exe
+C:\Users\14923\Desktop\无人机\c2python\c2python\obj\Debug\c2python.pdb
+C:\Users\14923\Desktop\无人机\c2python\c2python\bin\Debug\c2python.exe
+C:\Users\14923\Desktop\无人机\c2python\c2python\bin\Debug\c2python.pdb
+C:\Users\14923\Desktop\无人机\c2python\c2python\bin\Debug\IronPython.dll
+C:\Users\14923\Desktop\无人机\c2python\c2python\bin\Debug\IronPython.Modules.dll
+C:\Users\14923\Desktop\无人机\c2python\c2python\bin\Debug\IronPython.SQLite.dll
+C:\Users\14923\Desktop\无人机\c2python\c2python\bin\Debug\IronPython.Wpf.dll
+C:\Users\14923\Desktop\无人机\c2python\c2python\bin\Debug\Microsoft.Scripting.dll
+C:\Users\14923\Desktop\无人机\c2python\c2python\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\14923\Desktop\无人机\c2python\c2python\bin\Debug\IronPython.xml
+C:\Users\14923\Desktop\无人机\c2python\c2python\bin\Debug\IronPython.Modules.xml
+C:\Users\14923\Desktop\无人机\c2python\c2python\bin\Debug\IronPython.SQLite.xml
+C:\Users\14923\Desktop\无人机\c2python\c2python\bin\Debug\IronPython.Wpf.xml
+C:\Users\14923\Desktop\无人机\c2python\c2python\obj\Debug\c2python.csprojResolveAssemblyReference.cache
+C:\Users\14923\Desktop\无人机\c2python\c2python\obj\Debug\MainWindow.g.cs
+C:\Users\14923\Desktop\无人机\c2python\c2python\obj\Debug\App.g.cs
+C:\Users\14923\Desktop\无人机\c2python\c2python\obj\Debug\c2python_Content.g.cs
+C:\Users\14923\Desktop\无人机\c2python\c2python\obj\Debug\c2python_MarkupCompile.cache
+C:\Users\14923\Desktop\无人机\c2python\c2python\obj\Debug\c2python_MarkupCompile.lref
+C:\Users\14923\Desktop\无人机\c2python\c2python\obj\Debug\MainWindow.baml
+C:\Users\14923\Desktop\无人机\c2python\c2python\obj\Debug\c2python.g.resources
+C:\Users\14923\Desktop\无人机\c2python\c2python\obj\Debug\c2python.Properties.Resources.resources
+C:\Users\14923\Desktop\无人机\c2python\c2python\obj\Debug\c2python.csproj.GenerateResource.Cache

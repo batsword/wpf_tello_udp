@@ -1,0 +1,57 @@
+﻿13:42:43 165	INFO: start connect service 127.0.0.1:9000
+13:42:43 169	INFO: connect succ.
+13:42:43 418	ERROR:602INVALID_TERMINAL_IP
+13:46:51 569	INFO: start connect service 127.0.0.1:9000
+13:46:51 574	INFO: connect succ.
+13:46:51 839	ERROR:602INVALID_TERMINAL_IP
+13:49:37 231	INFO: start connect service 127.0.0.1:9000
+13:49:37 235	INFO: connect succ.
+13:49:37 476	ERROR:602INVALID_TERMINAL_IP
+13:55:44 496	INFO: start connect service 127.0.0.1:9000
+13:55:44 500	INFO: connect succ.
+13:55:44 761	ERROR:602INVALID_TERMINAL_IP
+14:06:11 607	INFO: start connect service 127.0.0.1:9000
+14:06:11 611	INFO: connect succ.
+14:06:11 874	ERROR:602INVALID_TERMINAL_IP
+14:24:52 963	INFO: start connect service 127.0.0.1:9000
+14:24:52 967	INFO: connect succ.
+14:24:53 228	ERROR:602INVALID_TERMINAL_IP
+14:35:07 247	INFO: start connect service 127.0.0.1:9000
+14:35:07 251	INFO: connect succ.
+14:35:07 512	ERROR:602INVALID_TERMINAL_IP
+14:35:43 556	INFO: start connect service 127.0.0.1:9000
+14:35:43 561	INFO: connect succ.
+14:35:43 812	ERROR:602INVALID_TERMINAL_IP
+14:38:32 631	INFO: start connect service 127.0.0.1:9000
+14:38:32 635	INFO: connect succ.
+14:38:33 014	INFO: sign ok,machine:DESKTOP-710HHC7;id:1637
+14:39:59 608	INFO: start connect service 192.168.50.180:9000
+14:39:59 613	INFO: connect succ.
+14:39:59 817	INFO: sign ok,machine:DESKTOP-710HHC7;id:1637
+14:45:04 011	INFO: start connect service 192.168.50.180:9000
+14:45:04 015	INFO: connect succ.
+14:45:04 219	INFO: sign ok,machine:DESKTOP-710HHC7;id:1637
+14:45:44 312	INFO: start connect service 192.168.50.180:9000
+14:45:44 316	INFO: connect succ.
+14:45:44 525	INFO: sign ok,machine:DESKTOP-710HHC7;id:1637
+14:46:24 948	INFO: start connect service 192.168.50.180:9000
+14:46:24 953	INFO: connect succ.
+14:46:25 145	INFO: sign ok,machine:DESKTOP-710HHC7;id:1637
+14:46:42 301	INFO: start connect service 192.168.50.180:9000
+14:46:42 306	INFO: connect succ.
+14:46:42 505	INFO: sign ok,machine:DESKTOP-710HHC7;id:1637
+14:50:17 520	INFO: start connect service 192.168.50.180:9000
+14:50:17 524	INFO: connect succ.
+14:50:17 718	INFO: sign ok,machine:DESKTOP-710HHC7;id:1637
+14:59:34 371	INFO: start connect service 192.168.50.180:9000
+14:59:34 376	INFO: connect succ.
+14:59:34 581	INFO: sign ok,machine:DESKTOP-710HHC7;id:1637
+14:59:34 592	INFO: FormWindowState.Maximized
+15:11:49 226	INFO: start connect service 192.168.50.180:9000
+15:11:49 230	INFO: connect succ.
+15:11:49 446	INFO: sign ok,machine:DESKTOP-710HHC7;id:1637
+15:11:49 456	INFO: FormWindowState.Maximized
+15:13:16 726	INFO: start connect service 192.168.50.180:9000
+15:13:16 731	INFO: connect succ.
+15:13:16 934	INFO: sign ok,machine:DESKTOP-710HHC7;id:1637
+15:13:16 945	INFO: FormWindowState.Maximized

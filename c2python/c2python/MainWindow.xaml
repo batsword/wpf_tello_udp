@@ -1,0 +1,40 @@
+﻿<Window x:Class="c2python.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" WindowStartupLocation="Manual" 
+        xmlns:local="clr-namespace:c2python" WindowState="Maximized" d:DesignWidth="1920" d:DesignHeight="1080"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="860.192" Width="1316.394" Loaded="Window_Loaded">
+    <Grid>
+        <Button IsEnabled="False" x:Name="button" Content="初始" HorizontalAlignment="Left" Height="53" Margin="0,22,0,0" VerticalAlignment="Top" Width="146" Click="button_Click"/>
+        <Button x:Name="button1" Content="起飞" HorizontalAlignment="Left" Height="51" Margin="30,120,0,0" VerticalAlignment="Top" Width="116" Click="button1_Click"/>
+        <Button x:Name="button1_Copy" Content="降落" HorizontalAlignment="Left" Height="51" Margin="30,180,0,0" VerticalAlignment="Top" Width="116" Click="button1_Copy_Click"/>
+        <Button x:Name="btn_up"  Content="上" HorizontalAlignment="Left" Height="51" Margin="30,243,0,0" VerticalAlignment="Top" Width="116"  MouseDown="btn_up_MouseDown" MouseUp="btn_up_MouseUp"/>
+        <Button x:Name="btn_pre" MouseDown="btn_pre_MouseDown" MouseUp="btn_pre_MouseUp" Content="前进" HorizontalAlignment="Left" Height="51" Margin="316,120,0,0" VerticalAlignment="Top" Width="116" />
+        <Button x:Name="btn_left" MouseDown="btn_left_MouseDown" MouseUp="btn_left_MouseUp" Content="左" HorizontalAlignment="Left" Height="51" Margin="155,185,0,0" VerticalAlignment="Top" Width="116" />
+        <Button x:Name="btn_pro" MouseDown="btn_pro_MouseDown" MouseUp="btn_pro_MouseUp" Content="后退" HorizontalAlignment="Left" Height="51" Margin="316,236,0,0" VerticalAlignment="Top" Width="116" />
+        <Button x:Name="btn_right" MouseDown="btn_right_MouseDown" MouseUp="btn_right_MouseUp"  Content="右" HorizontalAlignment="Left" Height="51" Margin="460,180,0,0" VerticalAlignment="Top" Width="116" />
+        <Button x:Name="btn_dwon" MouseDown="btn_dwon_MouseDown" MouseUp="btn_dwon_MouseUp" Content="下" HorizontalAlignment="Left" Height="51" Margin="30,303,0,0" VerticalAlignment="Top" Width="116" />
+        <TextBox x:Name="ip" HorizontalAlignment="Left" Height="30" Margin="289,22,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="276" Text="127.0.0.1"/>
+        <TextBox x:Name="port" HorizontalAlignment="Left" Height="30" Margin="609,22,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="75" Text="7788"/>
+        <TextBlock x:Name="textBlock" FontSize="20" HorizontalAlignment="Left" Height="30" Margin="242,22,0,0" TextWrapping="Wrap" Text="IP" VerticalAlignment="Top" Width="32"/>
+        <TextBlock x:Name="textBlock_Copy" FontSize="20" HorizontalAlignment="Left" Height="30" Margin="580,22,0,0" TextWrapping="Wrap" Text=":" VerticalAlignment="Top" Width="14"/>
+        <Button x:Name="button2" Visibility="Hidden" Content="" HorizontalAlignment="Left" Height="30" Margin="702,22,0,0" VerticalAlignment="Top" Width="68" Click="button2_Click"/>
+        <Button x:Name="btn_360" Content="360" HorizontalAlignment="Left" Height="51" Margin="225,340,0,0" VerticalAlignment="Top" Width="116" Click="btn_360_Click" />
+        <Button x:Name="btn_bounce" Content="bounce" HorizontalAlignment="Left" Height="51" Margin="410,340,0,0" VerticalAlignment="Top" Width="116" Click="btn_bounce_Click" />
+        <TextBlock x:Name="tb_rev" HorizontalAlignment="Left" Height="140" Margin="187,515,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="448"/>
+        <TextBlock x:Name="textBlock1_Copy1" HorizontalAlignment="Left" Height="29" Margin="54,515,0,0" TextWrapping="Wrap" Text="接收区:" VerticalAlignment="Top" Width="102"/>
+
+        <Border BorderBrush="Black" BorderThickness="2" Margin="692,98,125,438">
+
+        </Border>
+        <TextBlock x:Name="textBlock1" HorizontalAlignment="Left" Height="23" Margin="731,185,0,0" TextWrapping="Wrap" Text="time= (毫秒)" VerticalAlignment="Top" Width="182"/>
+        <Button x:Name="BtnRTxt" Content="自动化飞行" HorizontalAlignment="Left" Height="44" Margin="728,119,0,0" VerticalAlignment="Top" Width="116" Click="BtnRTxt_Click"/>
+        <TextBlock x:Name="textBlock1_Copy" HorizontalAlignment="Left" Height="23" Margin="731,217,0,0" TextWrapping="Wrap" Text="L= (秒 左)              R = (秒 右)               U = (秒 上)               D = (秒 下) " VerticalAlignment="Top" Width="418"/>
+        <TextBlock x:Name="textBlock2_Copy" HorizontalAlignment="Left" Height="23" Margin="731,254,0,0" TextWrapping="Wrap" Text="E= (秒 前)              O = (秒 后)" VerticalAlignment="Top" Width="418"/>
+        <Button x:Name="writeFile"  Content="写文件测试" HorizontalAlignment="Left" Height="51" Margin="30,372,0,0" VerticalAlignment="Top" Width="116" Click="writeFile_Click" />
+        <Button x:Name="writeFile_other"  Content="写文件测试（另一种）" HorizontalAlignment="Left" Height="51" Margin="30,442,0,0" VerticalAlignment="Top" Width="116" Click="writeFile_other_Click"  />
+        <Button x:Name="processing"  Content="进程启动" HorizontalAlignment="Left" Height="51" Margin="175,442,0,0" VerticalAlignment="Top" Width="116" Click="processing_Click"   />
+    </Grid>
+</Window>

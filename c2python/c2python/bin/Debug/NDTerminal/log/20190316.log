@@ -1,0 +1,12 @@
+﻿15:19:40 755	INFO: start connect service 127.0.0.1:9000
+15:19:40 759	INFO: connect succ.
+15:19:41 063	ERROR:602INVALID_TERMINAL_IP
+15:20:12 939	INFO: shell *.bat error,no file:C:\Users\14923\Desktop\投币软件需求\PhotonServer\stop.bat
+15:37:26 004	INFO: start connect service 127.0.0.1:9000
+15:37:26 009	INFO: connect succ.
+15:37:26 328	ERROR:602INVALID_TERMINAL_IP
+15:37:35 643	INFO: shell *.bat error,no file:E:\zyj\new_svn\投币单屏\NDCoinEx\NDCoinEx\bin\Debug\PhotonServer\stop.bat
+15:43:56 492	INFO: start connect service 127.0.0.1:9000
+15:43:56 496	INFO: connect succ.
+15:43:56 800	ERROR:602INVALID_TERMINAL_IP
+15:44:08 470	INFO: shell *.bat error,no file:E:\zyj\new_svn\投币单屏\NDCoinEx\NDCoinEx\bin\Debug\PhotonServer\stop.bat
